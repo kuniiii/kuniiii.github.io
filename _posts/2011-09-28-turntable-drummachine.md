@@ -2,7 +2,7 @@
 layout: post
 title: "Turntable Drummachine"
 description: "Remixing a turntable with a drum machine."
-category: portfolio
+category: portfolio-old
 tags: [arduino, interaction design, generative music]
 image:
   feature: turntable-feature2.jpg

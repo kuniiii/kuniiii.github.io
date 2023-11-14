@@ -3,8 +3,8 @@ layout: post
 title: "Turntable Drum Machine"
 permalink: /portfolio/turntable-drum-machine
 image:
-    path: turntable-feature2.jpg
-    thumbnail: turntable-thumbnail.jpg
+    path: /images/turntable-feature2.jpg
+    thumbnail: /images/turntable-thumbnail.jpg
     caption: "Photo by Peter Kun"
 ---
 

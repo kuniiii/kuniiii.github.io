@@ -6,6 +6,10 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Peter Kun, PhD
 description: Portfolio and things.
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
 
 # Front Matter Defaults
 defaults:

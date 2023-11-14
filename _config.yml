@@ -5,3 +5,25 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 title: Peter Kun, PhD
 description: Portfolio and things.
+
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: false
+      share: false
+
+  # Portfolio defaults
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: post
+      comments: false
+      share: false
+      

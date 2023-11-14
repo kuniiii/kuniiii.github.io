@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Peter Kun:
+  name: Peter Kun
+  picture: /images/bio-photo-2.jpg
+  twitter: "@kuniiii"
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/peterkun/
+      icon: fab fa-brands fa-linkedin

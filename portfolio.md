@@ -6,4 +6,5 @@ collection: portfolio
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_portfolio`.
+These are projects I worked on throughout the years. They are being updated with my more recent work.
+<!-- Sample document listing for the collection `_portfolio`. -->

@@ -38,7 +38,7 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
-$serif-font-family: "Noto Serif", serif !default;
+$serif-font-family: "Lora", serif !default;
 $sans-serif-font-family: "Inter", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
@@ -49,8 +49,8 @@ $title-font-family: $serif-font-family !default;
 $description-font-family: $serif-font-family !default;
 $meta-font-family: $serif-font-family !default;
 
-$page-title-weight: 100 !default;
-$entry-title-weight: 100 !default;
+$page-title-weight: light !default;
+$entry-title-weight: light !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: #000 !default;

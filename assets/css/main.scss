@@ -28,7 +28,8 @@ $meta-font-family: $serif-font-family;
 // }
 
 // Apply the font-family globally
-body, h1, h2, h3, h4, h5, h6 {
+// body, h1, h2, h3, h4, h5, h6 {
+body {  
     font-family: $sans-serif-font-family;
 }
 

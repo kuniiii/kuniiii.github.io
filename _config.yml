@@ -19,7 +19,7 @@ words_per_minute: # 200
 google_fonts:
   - name: "Inter"
     weights: "300,400,700"
-  - name: "Lora"
+  - name: "Noto Serif"
     weights: "100,400,400i,500,500i"
 # google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 # disqus:

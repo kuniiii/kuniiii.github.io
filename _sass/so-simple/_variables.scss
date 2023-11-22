@@ -45,12 +45,12 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospa
 $base-font-family: $sans-serif-font-family !default;
 $headline-font-family: $sans-serif-font-family !default;
 // $title-font-family: $serif-font-family !default;
-$title-font-family: $sans-serif-font-family !default;
+$title-font-family: $serif-font-family !default;
 $description-font-family: $serif-font-family !default;
 $meta-font-family: $serif-font-family !default;
 
-$page-title-weight: bold !default;
-$entry-title-weight: bold !default;
+$page-title-weight: light !default;
+$entry-title-weight: light !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: #000 !default;

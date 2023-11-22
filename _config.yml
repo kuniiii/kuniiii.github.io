@@ -7,7 +7,7 @@ title: Peter Kun, PhD
 description: Portfolio and things.
 
       
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

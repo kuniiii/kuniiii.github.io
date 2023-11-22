@@ -18,35 +18,35 @@ $title-font-family: $serif-font-family;
 $description-font-family: $serif-font-family;
 $meta-font-family: $serif-font-family;
 
-// Define a custom font-face for Inter with slanted style
-@font-face {
-    font-family: 'Inter Slanted';
-    font-style: italic, oblique -10deg;
-    font-weight: 400;
-    src: local('Inter'), local('Inter-Regular');
-    font-synthesis: none;
-}
+// // Define a custom font-face for Inter with slanted style
+// @font-face {
+//     font-family: 'Inter Slanted';
+//     font-style: italic, oblique -10deg;
+//     font-weight: 400;
+//     src: local('Inter'), local('Inter-Regular');
+//     font-synthesis: none;
+// }
 
-// Apply the font-family globally
-body {
-    font-family: $sans-serif-font-family;
-}
+// // Apply the font-family globally
+// body {
+//     font-family: $sans-serif-font-family;
+// }
 
-// Slanted style for italic text
-em, i, .italic, .font-italic {
-    font-family: 'Inter Slanted', sans-serif;
-    font-style: oblique -10deg;
-}
+// // Slanted style for italic text
+// em, i, .italic, .font-italic {
+//     font-family: 'Inter Slanted', sans-serif;
+//     font-style: oblique -10deg;
+// }
 
-// Bold style
-strong, b, .bold, .font-bold {
-    font-family: 'Inter', sans-serif;
-    font-weight: 700;
-}
+// // Bold style
+// strong, b, .bold, .font-bold {
+//     font-family: 'Inter', sans-serif;
+//     font-weight: 700;
+// }
 
-// Bold and slanted style
-.bold-italic, .font-bold-italic {
-    font-family: 'Inter Slanted', sans-serif;
-    font-weight: 700; // Bold
-    font-style: oblique -10deg; // Slanted
-}
+// // Bold and slanted style
+// .bold-italic, .font-bold-italic {
+//     font-family: 'Inter Slanted', sans-serif;
+//     font-weight: 700; // Bold
+//     font-style: oblique -10deg; // Slanted
+// }

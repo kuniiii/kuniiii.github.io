@@ -7,7 +7,7 @@ title: Peter Kun, PhD
 description: Portfolio and things.
 
       
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/light.css"
 locale: en-US
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -19,8 +19,8 @@ words_per_minute: # 200
 google_fonts:
   - name: "Inter"
     weights: "300,400,700"
-  - name: "Noto Serif"
-    weights: "400,400i,600,600i"
+  - name: "Lora"
+    weights: "400,400i,500,500i"
 # google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 # disqus:
 #   shortname: # Disqus shortname, e.g. "my_disqus_shortname"

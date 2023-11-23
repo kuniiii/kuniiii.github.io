@@ -3,6 +3,7 @@ layout: post
 title: "Design Inquiry Through Data"
 description: "PhD research on creative data work and a design method perspective on data science."
 collaborators: false
+classification: PhD Research
 permalink: /portfolio/design-inquiry-through-data
 image:
     # path: /images/turntable-feature2.jpg

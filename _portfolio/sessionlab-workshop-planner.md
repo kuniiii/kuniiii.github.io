@@ -7,6 +7,7 @@ image:
     path: /images/trainedon-feature.png
     thumbnail: /images/trainedon-thumbnail.png
     caption: "Interaction and interface design of a web application for workshop planning. Interface design by Peter Kun."
+classification: MVP UX design
 collaborators: "David Salamon, Filip Kis, Kert Kivaste, Robert Cserti"
 ---
 

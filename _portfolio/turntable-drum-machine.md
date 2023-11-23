@@ -8,6 +8,7 @@ image:
     path: /images/turntable-feature2.jpg
     thumbnail: /images/turntable-thumbnail.jpg
     caption: "Photo by Peter Kun"
+classification: Proof of concept    
 ---
 
 <!-- ---

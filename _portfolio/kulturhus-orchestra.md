@@ -7,6 +7,7 @@ image:
     path: /images/kulturhus-orchestra-feature.jpg
     thumbnail: /images/kulturhus-orchestra-thumbnail.jpg
     caption: "An orchestra to jam with interactive coffeetables and mobile devices. Photo by Peter Kun"
+classification: MSc project
 collaborators: "Niels Swinkels, Laura Rebolo, Markus Jansson, Robert Fohlin"
 ---
 

@@ -31,15 +31,13 @@
   {% endunless %}
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
-      aaa
       {% if site.read_time %}{% include read-time.html %}{% endif %}
       {% if entry.date %}{% include entry-date.html %}{% endif %}
     </footer>
   {% endif %}
   {% if page.collection == 'portfolio' %}
     <footer class="entry-meta">
-      bbb
-      {% if entry.description %}{% include entry-classification.html %}{% endif %}
+      {% if entry.classification %}{% include entry-classification.html %}bbb{% endif %}
     </footer>
   {% endif %}
 </article>

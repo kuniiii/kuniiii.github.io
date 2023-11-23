@@ -1,12 +1,9 @@
-<!-- {% if page.collaborators.size > 0 %}
+{% if page.collaborators %}
   <h3 class="page-taxonomies-title">{{ 'Collaborators' }}</h3>
-  {% assign collaborators = page.collaborators | sort %}
   <ul class="page-taxonomies">
-    {%- for collaborator in collaborators -%}
       <li class="page-taxonomy">
-          {{ collaborator }}
+          {{ page.collaborators }}
       </li>
-    {%- endfor- %}
   </ul>
 {% endif %} -->
 

@@ -10,10 +10,8 @@ layout: default
         {% assign title = page.title | markdownify | strip_html %}
         {% if page.link %}
           <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
-          <span class="read-time">{{ page.classification }}</span>
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
-          <span class="read-time">{{ page.classification }}</span>
         {% endif %}
       </header>
 
@@ -25,7 +23,7 @@ layout: default
       </div>
 
       <div class="page-content">
-        
+        <span class="read-time">{{ page.classification }}</span>
         <div class="e-content">
           {{ content }}
         </div>

@@ -68,7 +68,7 @@ defaults:
       comments: false
       share: false
 
-Site Author
+# Site Author
 author:
   name: "Peter Kun"
   picture: /images/Peter_kun_headshot.jpg

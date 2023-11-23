@@ -2,10 +2,10 @@
 layout: post
 title: "Turntable Drum Machine"
 description: "Remixing a turntable with a drum machine."
-collaborators: false
+# collaborators: false
 permalink: /portfolio/turntable-drum-machine
 # category: portfolio-old
-tags: [arduino, interaction design, generative music]
+# tags: [arduino, interaction design, generative music]
 image:
     path: /images/turntable-feature2.jpg
     thumbnail: /images/turntable-thumbnail.jpg

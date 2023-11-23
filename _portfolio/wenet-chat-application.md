@@ -8,7 +8,7 @@ image:
     # path: /images/turntable-feature2.jpg
     # thumbnail: /images/turntable-thumbnail.jpg
     # caption: "Photo by Peter Kun"
-classification: Application design
+classification: Chat application design, 2021-2022
 ---
 
 Diversity-aware chat application to connect a community.

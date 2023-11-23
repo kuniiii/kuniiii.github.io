@@ -35,4 +35,9 @@
       {% if entry.date %}{% include entry-date.html %}{% endif %}
     </footer>
   {% endif %}
+  {% if page.layout == 'portfolio' %}
+    <footer class="entry-meta">
+      {% if entry.classification %}{% include entry-classification.html %}{% endif %}
+    </footer>
+  {% endif %}
 </article>

@@ -69,21 +69,21 @@ defaults:
       share: false
 
 # Site Author
-author:
-  name: "Peter Kun"
-  picture: /images/Peter_kun_headshot.jpg
-  email: "peter@peterkun.com"
-  twitter: "kuniiii"
-  links:
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/peterkun/
-      icon: fa-brands fa-linkedin
-    - title: Google Scholar
-      url: https://scholar.google.com/citations?hl=en&user=C5aOceIAAAAJ
-      icon: fa-solid fa-building-columns
-    - title: Twitter
-      url: https://twitter.com/kuniiii
-      icon: fa-brands fa-twitter
+# author:
+#   name: "Peter Kun"
+#   picture: /images/Peter_kun_headshot.jpg
+#   email: "peter@peterkun.com"
+#   twitter: "kuniiii"
+#   links:
+#     - title: LinkedIn
+#       url: https://www.linkedin.com/in/peterkun/
+#       icon: fa-brands fa-linkedin
+#     - title: Google Scholar
+#       url: https://scholar.google.com/citations?hl=en&user=C5aOceIAAAAJ
+#       icon: fa-solid fa-building-columns
+#     - title: Twitter
+#       url: https://twitter.com/kuniiii
+#       icon: fa-brands fa-twitter
 
 
 # Footer Links

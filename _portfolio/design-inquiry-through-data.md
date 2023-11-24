@@ -3,7 +3,7 @@ layout: post
 title: "Design Inquiry Through Data"
 description: "PhD research on creative data work and a design method perspective on data science."
 # collaborators: false
-classification: PhD Research, 2016-2020
+classification: PhD Research at TU Delft, 2016-2020
 permalink: /portfolio/design-inquiry-through-data
 image:
     # path: /images/turntable-feature2.jpg
@@ -20,15 +20,15 @@ The massive amounts of data on the internet has created vast opportunities for d
 This overarching research question was tackled through a set of workshops focused on different facets of the leading research question. Throughout all studies, I focused on how designers move from an "unknown" state into a "known" state with a given inquiry, and what happens when that inquiry is through data. 
 
 <figure>
-	<a href="/images/thesis_workshop_teachinglab.jpg"><img src="/images/thesis_workshop_teachinglab.jpg"></a><figcaption>Workshop on data exploration for designers.</figcaption>
+	<a href="/images/thesis_ditd_framework.jpg"><img src="/images/thesis_ditd_framework.jpg"></a><figcaption>The Design Inquiry Through Data framework combining computational and designerly thinking processes.</figcaption>
 </figure>
 
 During the workshops, participants made sense of complex phenomena from hundreds of thousands of tweets, scrape data to feed into their inquiry and so forth – an approach that stems from what *creative* needs exist to make sense of with data, informed by a thorough understanding of designing and working with data.
 
-![[Pasted image 20231117162926.png]]
 <figure>
-	<a href="/images/thesis_ditd_framework.jpg"><img src="/images/thesis_ditd_framework.jpg"></a><figcaption>The Design Inquiry Through Data framework combining computational and designerly thinking processes.</figcaption>
+	<a href="/images/thesis_workshop_teachinglab.jpg"><img src="/images/thesis_workshop_teachinglab.jpg"></a><figcaption>Workshop on data exploration for designers.</figcaption>
 </figure>
+
 
 ### Hybrid mindset
 The studies reveal that designers assume a ‘hybrid mindset’ of combining computational/data thinking with design/qualitative thinking. The hybrid mindset enables designers to opportunistically mix the two main data traditions of qualitative and quantitative

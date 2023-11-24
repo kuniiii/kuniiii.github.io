@@ -6,9 +6,9 @@ description: "PhD research on creative data work and a design method perspective
 classification: PhD Research at TU Delft, 2016-2020
 permalink: /portfolio/design-inquiry-through-data
 image:
-    # path: /images/turntable-feature2.jpg
-    # thumbnail: /images/turntable-thumbnail.jpg
-    # caption: "Photo by Peter Kun"
+    path: /images/thesis_ditd_feature.png
+    thumbnail: /images/thesis_ditd_thumbnail.png
+    caption: "Network graph from computer vision annotation of Instagram pictures of Industrial Design faculty at TU Delft."
 ---
 
 My PhD research was focused on creative data work and a design method perspective on data science. The thesis can be downloaded [here](https://doi.org/10.4233/uuid:7e914dd9-2b53-4b2c-9061-86087dbb93b9).

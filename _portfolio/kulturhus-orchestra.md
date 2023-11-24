@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Kulturhus Orchestra"
-description: "An orchestra to jam with interactive coffeetables and mobile devices."
+description: "A jamming orchestra consisting of interactive coffeetables and mobile devices."
 permalink: /portfolio/kulturhus-orchestra
 image:
     path: /images/kulturhus-orchestra-feature.jpg
     thumbnail: /images/kulturhus-orchestra-thumbnail.jpg
-    caption: "An orchestra to jam with interactive coffeetables and mobile devices. Photo by Peter Kun"
+    caption: "A jamming orchestra consisting of interactive coffeetables and mobile devices. Photo by Peter Kun"
 classification: MSc project, 2012
 collaborators: "Niels Swinkels, Laura Rebolo, Markus Jansson, Robert Fohlin"
 ---
@@ -25,27 +25,26 @@ comments: false
 collaborators: "Niels Swinkels, Laura Rebolo, Markus Jansson, Robert Fohlin"
 --- -->
 
-## Brief
-To enable co-creation and cultural activities in the public space, of a new culture house in Gothenburg.
+Kulturhus Orchestra is an interactive experience around the "fika", the Swedish communal coffee drinking experience. It was developed for a brief to enable co-creation and cultural activities in a public space, a new culture house in Gothenburg.
 
 ## Outcome
-A stable, well-scaling prototype was built, which was an engaging part of the exhibition, inviting most of the visitors to join in the social experience of jamming while grabbing a coffee.
+We designed and developed a stable, well-scaling prototype, where different interactive artifacts can join in and form an orchestra. Through this experience, the visitors can jam with each other while grabbing a coffee. 
 
-<iframe src="//player.vimeo.com/video/68182156" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+The realization involved a websockets-based music system, where people can participate via different clients, such as interactive coffee table (Microsoft Surface) or smartphones, tablets.
 
-## Description
-We designed and built a web-based music system, where people can participate via an interactive coffee table (Microsoft Surface) or via smartphones, tablets.
+My responsibility was to develop the music generation part. My approach was to build a sequencer system in Pure Data that always generates harmonic music, so people without any musical training are still able to participate and enjoy.
 
-The system always generates harmonic music, so participation is enjoyable even for people without musical training.
+{% include responsive-embed url="https://player.vimeo.com/video/68182156" ratio="16:9" %}
+<!-- <iframe src="//player.vimeo.com/video/68182156" width="80%" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+
+## Design rationale
+Coffee breaks (*“fika”*) one of the most important part of the Swedish everydays culture – the time when a group socializes, but also a moment people invite others for. Swedish people, perceived typically as distant and shy, have this specific, slow-yet-warm way of socializing.
+
+With this project, we stir the shy fika culture with augmenting it with “jamming”; a rather typical social get-together in extroverted cultures, the very activity when strangers meet and play music together on the street or at a bar.
 
 <figure>
 	<a href="/images/kulturhus-orchestra-story-sketch.jpg"><img src="/images/kulturhus-orchestra-story-sketch.jpg"></a><figcaption>Pitching the concept with a story during ideation.</figcaption>
 </figure>
-
-## Design rationale
-Coffee breaks (*“fika”*) are perhaps the most important part of the Swedish culture – the time when a group socialize, but also a moment people invite others for. Scandinavian people, perceived typically as distant and shy, have this specific, slow-yet-warm way of socializing.
-
-This project was an exploration to augment fika with “jamming”, a rather typical social get-together in the Mediterranean culture, the very activity when strangers meet and play music together on the street or at a bar.
 
 <figure>
 	<a href="/images/kulturhus-sketch.jpg"><img src="/images/kulturhus-sketch.jpg"></a><figcaption>Sketches from the ideation process. Credit: Laura Rebolo.</figcaption>

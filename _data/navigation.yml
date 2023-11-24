@@ -1,9 +1,15 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: home
   url: /
-- title: Portfolio
+- title: /now
+  url: /now/
+- title: /portfolio
   url: /portfolio/
+- title: /publications
+  url: /publications/
+- title: /about
+  url: /about/
 # - title: Categories
 #   url: /categories/
 # - title: Tags

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: "WeNet Chat Application"
-description: "Diversity-aware chat application to connect a community."
+description: "Diversity-aware chat application for making meaningful community connections."
 # collaborators: false
 permalink: /portfolio/wenet-chat-application
 image:
-    # path: /images/turntable-feature2.jpg
-    # thumbnail: /images/turntable-thumbnail.jpg
-    # caption: "Photo by Peter Kun"
+    path: /images/wenet-chatbot-thumbnail.png
+    thumbnail: /images/wenet-chatbot-thumbnail.png
+    caption: "Diversity-aware chat application for making meaningful community connections."
 classification: Chat application design, 2021-2022
 ---
 
-I was the lead designer of the AskForHelp/we@ chat application that was deployed all over the globe at pilot sites for AI research into diversity. In this capacity, my role was focused on making a coherent design for a chat application, combining the research and technical agendas of partners, the needs of the pilots, while building on social sciences and ethics research. 
+I was the lead designer of the AskForHelp/we@ chat application that was deployed all over the globe at pilot sites for AI research into diversity. In this capacity, my role was focused on making a coherent design for a chat application, combining the research and technical agendas of partners, the needs of the pilots, while building on social sciences and ethics research.
 
-## Background
+### Background
+
 Diversity is a widely debated topic in the design and technology fields, with various framings that highlights problems around the normative nature of technology and big data. In this project, we however wanted to focus on the less investigated positive use-cases of diversity, and explore ways how diversity could benefit communities. We also intended to focus on diversity that is understood beyond race, gender or age; there is more to connect two people who likes the same music, has similar hobbies, then mere demographics.
 
-> What do people expect from being presented with diversity? How do people interpret diversity in use? 
+> What do people expect from being presented with diversity? How do people interpret diversity in use?
 > How do people perceive a chatbot that connects community members through diversity attributes?
 
 To address our research agenda, we designed and developed a Question-and-Answer chat application in the form of a Telegram chatbot. The big difference between an online community (e.g., Facebook Groups), or a social Q&A website (e.g., Quora) and the AskForHelp/we@ chatbot is the *social recommendation system* aspects, where the chatbot invites specific users to answer a user's question. During onboarding, the users fill up a profiling questionnaire based on *"deep diversity"* measures, focusing on interests, skills, values and world-view.
@@ -25,14 +26,16 @@ To address our research agenda, we designed and developed a Question-and-Answer 
 	<a href="/images/wenet-chatbot-process.png"><img src="/images/wenet-chatbot-process.png"></a><figcaption>The AskForHelp/we@ chat application acts as a facilitator between different users.</figcaption>
 </figure>
 
-## Research instrument adaptations
+### Research instrument adaptations
+
 I was also responsible for conducting design research with the AskForHelp/we@ chat application, particularly to study how people perceive diversity in a community and how do they take use of it. In this regard, I introduced some tweaks into the conversation flow with the aims of collecting qualitative and quantitative research data in-situ. 
 
 <figure>
 	<a href="/images/wenet-chatbot-figure-with-research-prompts.png"><img src="/images/wenet-chatbot-figure-with-research-prompts.png"></a><figcaption>The AskForHelp/we@ chat application mediated the interaction between users. Within the conversation flow the embedded research prompts (#1 and #2 highlighted) for data collection for our research questions.</figcaption>
 </figure>
 
-## Ways of working
+### Ways of working
+
 There were three major iterations of the AskForHelp/we@ chat application built on each other progressively. As a designer was part of the developers' communication channels, collaborating with the engineering manager responsible for integrating the different research organizations' contributions. In my role, I was among the few holding a holistic overview of the product, often harmonizing, balancing between the social scientists' agenda of surveying participants, the ethicists considerations around fair and ethical data collection, the pilot sites desires to make the chat application relevant for their specific contexts, and of course the users themselves who we hoped would benefit from the application. 
 
 <figure>

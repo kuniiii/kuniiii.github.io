@@ -42,7 +42,7 @@ There were three major iterations of the AskForHelp/we@ chat application built o
 In practical terms, the design work was centered around a Miro board that was forced to be used as a *ground truth* throughout the whole design process. During the iterations, many subtle design decisions needed that required tracking UX assumptions at any steps in the chat applications' conversation flows, the user stories that are planned or already developed, the different data flows (i.e., do we have certain data available from an onboarding survey to enable a feature or not), ideating with gamification researchers what kind of user behavior to motivate, and so forth. Overall, it was a full-stack design experience, including stakeholder management and politics continously throughout the process.
 
 An extended presentation about this study can be found here:
-{% include responsive-embed url="https://www.docdroid.net/XWzloKm/exploring-diversity-perceptions-drs2022-peter-kun-pptx" ratio="16:9" frameborder="0" allowtransparency allowfullscreen %}
+{% include responsive-embed url="https://www.docdroid.net/XWzloKm/exploring-diversity-perceptions-drs2022-peter-kun-pptx" ratio="16:9" frameborder="0" %}
 
 <!-- <iframe width="100%" height="600" src="https://www.docdroid.net/XWzloKm/exploring-diversity-perceptions-drs2022-peter-kun-pptx" frameborder="0" allowtransparency allowfullscreen></iframe> -->
 

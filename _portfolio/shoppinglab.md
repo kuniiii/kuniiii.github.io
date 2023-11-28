@@ -4,7 +4,7 @@ title: "Shoppinglab App"
 description: "A web application to collect and analyze weak signals of future trends in shopping."
 # collaborators: false
 classification: Web application, 2015
-permalink: /portfolio/genframe
+permalink: /portfolio/shoppinglab
 image:
     path: /images/shoppinglab_thumbnail.png
     thumbnail: /images/shoppinglab_thumbnail.png

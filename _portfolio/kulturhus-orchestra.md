@@ -11,20 +11,6 @@ classification: MSc project, 2012
 collaborators: "Niels Swinkels, Laura Rebolo, Markus Jansson, Robert Fohlin"
 ---
 
-<!-- ---
-layout: post
-title: "Kulturhus Orchestra"
-description: "An orchestra to jam with interactive coffeetables and mobile devices."
-category: portfolio
-tags: [installation, interaction design, generative music]
-image:
-  feature: kulturhus-orchestra-feature.jpg
-  homepage: kulturhus-orchestra-thumbnail.jpg
-homepage: true
-comments: false
-collaborators: "Niels Swinkels, Laura Rebolo, Markus Jansson, Robert Fohlin"
---- -->
-
 Kulturhus Orchestra is an interactive experience around the "fika", the Swedish communal coffee drinking experience. It was developed for a brief to enable co-creation and cultural activities in a public space, a new culture house in Gothenburg.
 
 ## Outcome

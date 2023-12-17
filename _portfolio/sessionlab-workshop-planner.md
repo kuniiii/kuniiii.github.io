@@ -11,21 +11,6 @@ classification: Minimum Viable Product UX design, 2012-2014
 collaborators: "David Salamon, Filip Kis, Kert Kivaste, Robert Cserti"
 ---
 
-<!-- ---
-layout: post
-title: "SessionLab training planner (initial version)"
-description: "Interaction and interface design of a web application for training planning."
-category: portfolio
-tags: [interaction design, interface design, visual design]
-image:
-  feature: trainedon-feature.png
-  homepage: trainedon-thumbnail.png
-homepage: true
-comments: false
-collaborators: "David Salamon, Filip Kis, Kert Kivaste, Robert Cserti"
---- -->
-
-## Brief
 During my student years I worked as a workshop facilitator in volunteering and professional settings. As a designer it was striking that there are no tailored tools for the needs of workshop facilitators: most of the facilitators were used to use Excel or Word to plan their activities, and wouldn’t even admit how painful these software are for planning trainings.
 
 Together with some friends from the same background, I co-founded a startup – [SessionLab (previously: TrainedOn)](https://www.sessionlab.com) – to create an online platform for facilitators and to create a better application to plan workshop activities.

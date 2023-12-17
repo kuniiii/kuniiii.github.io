@@ -13,24 +13,9 @@ image:
 classification: Proof of concept, 2011  
 ---
 
-<!-- ---
-layout: post
-title: "Turntable Drummachine"
-description: "Remixing a turntable with a drum machine."
-category: portfolio
-tags: [arduino, interaction design, generative music]
-image:
-  feature: turntable-feature2.jpg
-  homepage: turntable-thumbnail.jpg
-homepage: true
-comments: false
-collaborators: false
---- -->
+Culturally *turntables, drum beats, and remixing* are very related, yet rarely combined with each other. In this project I literally remixed a turntable with a drum machine, creating such an instrument, which combines the benefits of both of its inspirations.
 
-## Brief
-I find a common fate of novel musical interfaces: stepping into the trap, when the novelty overwrites usefulness and usability, disregarding how different instruments are used, what are their stories and cultural roles.
-
-*"Turntables, drum beats, remixing"* are all the same taxonomy, yet rarely combined with each other. In this project I literally remixed a turntable with a drum machine, creating such an instrument, which combines the benefits of both of its inspirations.
+Novel musical interfaces can easily fall into the trap of novelty overwriting usefulness and usability. Novelty "just for the sake" can disregard how different instruments are used, what are their stories and cultural roles.
 
 <iframe src="//player.vimeo.com/video/30322545" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

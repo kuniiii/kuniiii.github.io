@@ -6,9 +6,9 @@ description: "Exploring the embedding and control of generative AI models in int
 classification: Technology exploration, 2022-2023
 permalink: /portfolio/genframe
 image:
-    # path: /images/thesis_ditd_feature.png
+    path: /images/genframe_feature.png
     thumbnail: /images/genframe_thumbnail.jpg
-    # caption: "A generative picture frame that paints traditional portraits based on the users' input."
+    caption: "A generative picture frame that paints traditional portraits based on the users' input."
 ---
 
 GenFrame is a generative picture frame that mimics traditional paintings while being equipped with generative AI capabilities. 
@@ -20,6 +20,12 @@ When an AI model is able to mimic any painting style, it can also give agency to
 {% include responsive-embed url="https://www.youtube.com/embed/ga7pFgAOPiY?si=S08xZAl7Uzi2Lhv3" ratio="16:9" %}
 ?
 This is still a work-in-progress project with paper submissions, more information to follow.
+
+<figure>
+	<a href="/images/genframe_field-study.png"><img src="/images/genframe_field-study.png"></a>
+	<figcaption>Field study at the Danish National Gallery with the GenFrame.</figcaption>
+</figure>
+
 
 <!-- 
 * Introduction

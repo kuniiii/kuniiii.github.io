@@ -7,8 +7,8 @@ classification: Technology exploration, 2022-2023
 permalink: /portfolio/genframe
 image:
     # path: /images/thesis_ditd_feature.png
-    # thumbnail: /images/thesis_ditd_thumbnail.png
-    # caption: "Network graph from computer vision annotation of Instagram pictures of Industrial Design faculty at TU Delft."
+    thumbnail: /images/genframe_thumbnail.jpg
+    # caption: "A generative picture frame that paints traditional portraits based on the users' input."
 ---
 
 GenFrame is a generative picture frame that mimics traditional paintings while being equipped with generative AI capabilities. 

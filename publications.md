@@ -4,6 +4,9 @@ layout: page
 permalink: /publications/
 ---
 
+## 2024
+- **Kun, P.**, Freiberger, M., Løvlie, A. S., Risi, S. (accepted).  AI Art Perceptions with GenFrame – an Image Generating Picture Frame. Forthcoming in Proceedings of Design Research Society 2024, Boston.
+
 ## 2023
 - **Kun, P.** (2023) Deploying Image Generation Models into Interactive Prototypes. In Workshop on Towards a Design (Research) Framework with Generative AI at ACM Designing Interactive Systems Conference, 11 July 2023, Pittsburgh, United States.
 - Van Der Maden, W., Van Beek, E., Nicenboim, I., Van Der Burg, V., **Kun, P.**, Lomas, J. D., & Kang, E. (2023). Towards a Design (Research) Framework with Generative AI. In Companion Publication of the 2023 ACM Designing Interactive Systems Conference (pp. 107-109). [https://doi.org/10.1145/3563703.3591453](https://doi.org/10.1145/3563703.3591453) 

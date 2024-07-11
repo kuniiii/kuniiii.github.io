@@ -22,8 +22,10 @@ Painters painting portraits of a girl has been a trope in art history for centur
 	<figcaption>Field study at the Danish National Gallery with the GenFrame.</figcaption>
 </figure>
 
-This project is still work-in-progress with paper submissions, therefore more information to follow.
-
+## Publications from this work
+- **Kun, P.**, Freiberger, M.A., Sundnes Løvlie, A., and Risi, S., (2024) GenFrame – Embedding Generative AI Into Interactive Artifacts. In Proceedings of the 2024 ACM Designing Interactive Systems Conference (DIS '24). Association for Computing Machinery, New York, NY, USA, 714–727. [https://doi.org/10.1145/3643834.3660750](https://doi.org/10.1145/3643834.3660750)
+- **Kun, P.**, Freiberger, M., Sundnes Løvlie, A., and Risi, S. (2024) AI Art Perceptions with GenFrame – an Image Generating Picture Frame, in Gray, C., Ciliotta Chehade, E., Hekkert, P., Forlano, L., Ciuccarelli, P., Lloyd, P. (eds.), DRS2024: Boston, 23–28 June, Boston, USA. [https://doi.org/10.21606/drs.2024.997](https://doi.org/10.21606/drs.2024.997)
+- **Kun, P.**, Freiberger, M., Risi, S., and Sundnes Løvlie, A. (2024) GenFrame: An Interactive Picture Frame Painting the Portrait of Any Girl. In Companion Publication of the 2024 ACM Designing Interactive Systems Conference (DIS '24 Companion). Association for Computing Machinery, New York, NY, USA, 353–358. [https://doi.org/10.1145/3656156.3665437](https://doi.org/10.1145/3656156.3665437)
 
 <!-- 
 * Introduction

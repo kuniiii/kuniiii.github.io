@@ -19,12 +19,12 @@ Painters painting portraits of a girl has been a trope in art history for centur
 
 <figure>
 	<a href="/images/genframe_field-study.png"><img src="/images/genframe_field-study.png"></a>
-	<figcaption>The GenFrame mimics traditional art to provoke the viewer reflecting on the value of art when it is generated on the spot.</figcaption>
+	<figcaption>Field study at the Danish National Gallery with the GenFrame.</figcaption>
 </figure>
 
 <figure>
 	<a href="/images/genframe_hero1.png"><img src="/images/genframe_hero1.png"></a>
-	<figcaption>Field study at the Danish National Gallery with the GenFrame.</figcaption>
+	<figcaption>The GenFrame mimics traditional art to provoke the viewer reflecting on the value of art when it is generated on the spot.</figcaption>
 </figure>
 
 ## Publications from this work

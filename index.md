@@ -1,5 +1,7 @@
 ---
 layout: home
+image:
+    path: /images/genframe_hero2.jpg
 
 ---
 

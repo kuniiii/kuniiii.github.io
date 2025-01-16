@@ -2,6 +2,8 @@
 title: About
 layout: page
 permalink: /about/
+image:
+    path: /images/tud_headshot_wide.jpg
 ---
 
 I am a designer and HCI/AI research scientist, with an academic background in merging design thinking with data, ML and AI. I build proof-of-concepts, interactive prototypes, and use a wide qualitative and quantitative research toolbox. My sweet spot is combining deep technical nerdery with finding meaningful, human-centered utility of AI/ML and creative technologies.

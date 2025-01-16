@@ -2,12 +2,10 @@
 title: About
 layout: page
 permalink: /about/
-image:
-    path: 
 ---
 
 <figure>
-	<a href="/images/tud_headshot_wide.jpg"><img src="/images/tud_headshot_wide.jpg"></a><figcaption>That's me!</figcaption>
+	<a href="/images/tud_headshot_wide.jpg"><img src="/images/tud_headshot_wide.jpg"></a>
 </figure>
 
 I am a designer and HCI/AI research scientist, with an academic background in merging design thinking with data, ML and AI. I build proof-of-concepts, interactive prototypes, and use a wide qualitative and quantitative research toolbox. My sweet spot is combining deep technical nerdery with finding meaningful, human-centered utility of AI/ML and creative technologies.
